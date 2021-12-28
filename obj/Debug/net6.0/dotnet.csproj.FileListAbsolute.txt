@@ -1,0 +1,15 @@
+C:\sernia\dotnet\bin\Debug\net6.0\dotnet.exe
+C:\sernia\dotnet\bin\Debug\net6.0\dotnet.deps.json
+C:\sernia\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+C:\sernia\dotnet\bin\Debug\net6.0\dotnet.dll
+C:\sernia\dotnet\bin\Debug\net6.0\ref\dotnet.dll
+C:\sernia\dotnet\bin\Debug\net6.0\dotnet.pdb
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.dll
+C:\sernia\dotnet\obj\Debug\net6.0\ref\dotnet.dll
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.pdb
+C:\sernia\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
